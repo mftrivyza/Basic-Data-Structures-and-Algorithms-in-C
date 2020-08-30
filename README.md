@@ -1,4 +1,4 @@
-# Basic-Data-Structures---Algorithms-in-C
+# Basic-Data-Structures-and-Algorithms-in-C
 
 Implementation of basic Data Structures and Algorithms in C:
 
